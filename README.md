@@ -1,5 +1,9 @@
 ### Hi there 👋
+Im **systems engineer**, currently working as university teacher and freelance. Too im learning Data Science with Python.
 
+You here find public repositories with **C++, .NET and some of Python**,   examples.
+
+Feel free to contact me if you have any suggestions or questions.
 <!--
 **AmilcarSerrano/AmilcarSerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
