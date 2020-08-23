@@ -10,8 +10,8 @@ This is the place for my personals (and some professionals) projects, learning p
 You here find public repositories with **C++, .NET and some of Python**, examples.
 Feel free to review, fork, star and issue any repository. Feedback is always welcome!
 
-### 🟣 You can catch me on:
-* [Twitter](https://twitter.com/musartedev)
-* [Instagram](https://instagram.com/musarte.dev)
+### 🟣 You can follow me on:
+* [Twitter](https://twitter.com/amilcarse)
+
 
 Feel free to contact me if you have any suggestions or questions.
